@@ -1,6 +1,10 @@
 # Análise de Vendas de E-commerce
 
-Projeto de estudo de análise de dados com Python, usando vendas fictícias de uma loja de produtos de tecnologia. O trabalho percorre a geração da base, a exploração dos dados e a criação de gráficos para entender o volume de vendas e a distribuição do faturamento.
+## Sobre o projeto
+
+Este projeto foi desenvolvido com o objetivo de praticar e demonstrar habilidades em **análise de dados com Python**. A partir de uma base fictícia de vendas de um e-commerce de produtos de tecnologia, são exploradas todas as etapas de um fluxo de análise: geração e organização dos dados, tratamento das informações, cálculo de indicadores e criação de visualizações.
+
+As análises ajudam a responder perguntas de negócio, como quais produtos vendem mais, quais categorias geram maior receita, como o faturamento evolui ao longo do tempo e quais estados apresentam os melhores resultados. Por utilizar dados sintéticos, o projeto tem finalidade exclusivamente educacional e integra meu portfólio de estudos em Python e análise de dados.
 
 ## Base de dados
 
